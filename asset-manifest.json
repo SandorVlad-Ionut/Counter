@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http.//SandorVlad-Ionut.github.io/Counter/static/css/main.8c774337.css",
+    "main.js": "/http.//SandorVlad-Ionut.github.io/Counter/static/js/main.582dec72.js",
+    "index.html": "/http.//SandorVlad-Ionut.github.io/Counter/index.html",
+    "main.8c774337.css.map": "/http.//SandorVlad-Ionut.github.io/Counter/static/css/main.8c774337.css.map",
+    "main.582dec72.js.map": "/http.//SandorVlad-Ionut.github.io/Counter/static/js/main.582dec72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c774337.css",
+    "static/js/main.582dec72.js"
+  ]
+}
